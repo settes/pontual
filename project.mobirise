@@ -76,7 +76,7 @@
             "showButtons": true
           },
           "title": "<br><span style=\"font-size: 4.39rem; line-height: 1.1;\">AR CONDICIONADO E</span><br><span style=\"font-size: 4.39rem; line-height: 1.1;\"><span style=\"font-weight: normal;\">ENGENHARIA DE CLIMATIZAÇÃO</span></span><br>",
-          "text": "<br><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">SITE EM CONSTRUÇÃO</span><br>",
+          "text": "<br><br><span style=\"font-size: 1.5rem; line-height: 1.5; font-style: normal;\">SITE EM CONSTRUÇÃO</span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#form1-8\" data-toolbar=\"-mbrBtnMove\">ENTRE EM CONTATO</a>   "
         },
         {
@@ -187,7 +187,7 @@
             "showSubTitle": true
           },
           "title": "FALE CONOSCO",
-          "subtitle": "<br><b>Ligue para (11) 2363-9009  |  (11) 2023-1572</b><br>ou preencha o formulário e entraremos em contato com você.<br>",
+          "subtitle": "<br><span style=\"font-style: normal;\"><b>Ligue para (11) 2363-9009  |  (11) 2023-1572</b><br>ou preencha o formulário e entraremos em contato com você.</span><br>",
           "form": {
             "action": "contato@pontualar.com.br",
             "alerts": {
