@@ -23,7 +23,7 @@
     "versionFirst": "3.11.1",
     "uniqCompNum": 10,
     "versionPublish": "3.11.1",
-    "favicon": "@PROJECT_PATH@/assets/images/favicon-pontual-128x57.png",
+    "favicon": "@PROJECT_PATH@/assets/images/novo-favicon-pontual-128x128.png",
     "noImageResize": ""
   },
   "pages": {
