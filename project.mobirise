@@ -7,7 +7,7 @@
       "title": "Mobirise 3",
       "styling": {
         "primaryColor": "#068cc3",
-        "secondaryColor": "#bfcecb",
+        "secondaryColor": "#efefef",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
@@ -21,8 +21,10 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 9,
-    "versionPublish": "3.11.1"
+    "uniqCompNum": 10,
+    "versionPublish": "3.11.1",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-pontual-128x57.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -227,6 +229,31 @@
             },
             ".mbr-section-title": {
               "color": "#068cc3"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-9",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Pontual Ar - Todos os direitos reservados &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;&nbsp;<a href=\"http://www.settes.com.br\" target=\"_blank\" class=\"text-white\">Site desenvolvido por Settes Comunicação.</a>",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
             }
           }
         }
